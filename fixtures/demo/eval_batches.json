@@ -1,0 +1,27 @@
+[
+  {
+    "id": "eb_week36",
+    "name": "第 36 周回归批",
+    "caseIds": [
+      "ec_spicy_office",
+      "ec_newcomer_gift",
+      "ec_elder_lowsugar",
+      "ec_price_check",
+      "ec_damage_aftersale",
+      "ec_promo_stack",
+      "ec_efficacy",
+      "ec_scam_prize"
+    ],
+    "status": "queued",
+    "passRate": 0,
+    "createdAt": "2026-09-05T19:00:00+08:00"
+  },
+  {
+    "id": "eb_week37_smoke",
+    "name": "第 37 周冒烟批",
+    "caseIds": ["ec_coupon_stack"],
+    "status": "queued",
+    "passRate": 0,
+    "createdAt": "2026-09-06T09:00:00+08:00"
+  }
+]

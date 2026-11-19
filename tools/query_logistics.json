@@ -1,0 +1,4 @@
+{
+  "id": "query_logistics",
+  "implementation": "src/lib/tools/query-logistics.ts"
+}

@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-09-09T03:46:09.562Z",
+  "defaults": {
+    "timeoutMs": 1500,
+    "retry": 1
+  },
+  "overrides": {
+    "query_products": {
+      "enabled": true,
+      "timeoutMs": 1200
+    },
+    "query_activities": {
+      "enabled": true,
+      "timeoutMs": 1000
+    },
+    "query_coupons": {
+      "enabled": true,
+      "timeoutMs": 1000
+    },
+    "calculate_price": {
+      "enabled": true,
+      "timeoutMs": 1500
+    },
+    "query_orders": {
+      "enabled": true,
+      "timeoutMs": 1500
+    },
+    "query_logistics": {
+      "enabled": true,
+      "timeoutMs": 1200
+    }
+  }
+}

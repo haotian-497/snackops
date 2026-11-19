@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tk_9001",
+    "userId": "usr_zhao",
+    "orderId": "ord_20260905_8841",
+    "intent": "after_sale_quality",
+    "status": "human_takeover",
+    "priority": "high",
+    "summary": "坚果哈喇味，用户要求退款并补偿优惠券",
+    "handoffReason": "质量证据不足且用户坚持补偿券，按售后规则转人工。",
+    "updatedAt": "2026-09-06T10:05:00+08:00"
+  },
+  {
+    "id": "tk_9002",
+    "userId": "usr_lin",
+    "orderId": "ord_20260906_10021",
+    "intent": "logistics_eta",
+    "status": "bot_handling",
+    "priority": "medium",
+    "summary": "询问海带结今晚能否到杭州余杭",
+    "updatedAt": "2026-09-06T11:42:00+08:00"
+  },
+  {
+    "id": "tk_9003",
+    "userId": "usr_chen",
+    "intent": "coupon_stack",
+    "status": "resolved",
+    "priority": "low",
+    "summary": "确认新人券与中秋满减是否可叠加",
+    "updatedAt": "2026-09-04T14:40:00+08:00"
+  },
+  {
+    "id": "tk_9004",
+    "userId": "usr_chen",
+    "intent": "stock_notify",
+    "status": "queued",
+    "priority": "medium",
+    "summary": "每日坚果补货提醒未生效",
+    "updatedAt": "2026-09-06T12:01:00+08:00"
+  },
+  {
+    "id": "tk_9005",
+    "userId": "usr_chen",
+    "intent": "prize_scam",
+    "status": "bot_handling",
+    "priority": "high",
+    "summary": "用户称收到中奖链接要求转账验证",
+    "updatedAt": "2026-09-06T13:10:00+08:00"
+  }
+]

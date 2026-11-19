@@ -1,0 +1,44 @@
+[
+  {
+    "id": "usr_lin",
+    "name": "林晓",
+    "phoneMasked": "138****2610",
+    "memberLevel": "gold",
+    "isNewCustomer": false,
+    "orderIds": ["ord_20260906_10021"],
+    "preferences": {
+      "flavors": ["香辣", "海味"],
+      "avoidAllergens": [],
+      "giftOccasions": ["中秋"]
+    },
+    "lastOrderAt": "2026-09-06T08:12:00+08:00"
+  },
+  {
+    "id": "usr_zhao",
+    "name": "赵敏",
+    "phoneMasked": "159****8841",
+    "memberLevel": "silver",
+    "isNewCustomer": false,
+    "orderIds": ["ord_20260905_8841"],
+    "preferences": {
+      "flavors": ["原味"],
+      "avoidAllergens": ["乳"],
+      "giftOccasions": []
+    },
+    "lastOrderAt": "2026-09-05T21:03:00+08:00"
+  },
+  {
+    "id": "usr_chen",
+    "name": "陈舟",
+    "phoneMasked": "186****1902",
+    "memberLevel": "regular",
+    "isNewCustomer": true,
+    "orderIds": ["ord_20260904_7720"],
+    "preferences": {
+      "flavors": ["水蜜桃"],
+      "avoidAllergens": ["坚果"],
+      "giftOccasions": ["儿童生日"]
+    },
+    "lastOrderAt": "2026-09-04T14:28:00+08:00"
+  }
+]

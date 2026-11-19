@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ord_20260906_10021",
+    "userId": "usr_lin",
+    "sku": "KL-SPICY-80G",
+    "productName": "香辣海带结 80g",
+    "quantity": 3,
+    "amountFen": 3870,
+    "status": "shipped",
+    "logisticsStatus": "in_transit",
+    "afterSaleStatus": "none",
+    "items": [
+      {
+        "sku": "KL-SPICY-80G",
+        "productName": "香辣海带结 80g",
+        "quantity": 3,
+        "priceFen": 1290
+      }
+    ],
+    "createdAt": "2026-09-06T08:12:00+08:00"
+  },
+  {
+    "id": "ord_20260905_8841",
+    "userId": "usr_zhao",
+    "sku": "NT-MIX-25G",
+    "productName": "每日坚果混合装 25g",
+    "quantity": 2,
+    "amountFen": 1980,
+    "status": "after_sale",
+    "logisticsStatus": "delivered",
+    "afterSaleStatus": "requested",
+    "items": [
+      {
+        "sku": "NT-MIX-25G",
+        "productName": "每日坚果混合装 25g",
+        "quantity": 2,
+        "priceFen": 990
+      }
+    ],
+    "createdAt": "2026-09-05T21:03:00+08:00"
+  },
+  {
+    "id": "ord_20260904_7720",
+    "userId": "usr_chen",
+    "sku": "GM-PEACH-50G",
+    "productName": "水蜜桃果汁软糖 50g",
+    "quantity": 1,
+    "amountFen": 890,
+    "status": "completed",
+    "logisticsStatus": "delivered",
+    "afterSaleStatus": "none",
+    "items": [
+      {
+        "sku": "GM-PEACH-50G",
+        "productName": "水蜜桃果汁软糖 50g",
+        "quantity": 1,
+        "priceFen": 890
+      }
+    ],
+    "createdAt": "2026-09-04T14:28:00+08:00"
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "id": "query_products",
+  "implementation": "src/lib/tools/query-products.ts"
+}

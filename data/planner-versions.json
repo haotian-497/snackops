@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pv_e6aca101-aa82-486d-9f12-f947060df4c7",
+    "version": "1.0.0",
+    "createdAt": "2026-09-09T03:30:43.277Z",
+    "changeNote": "从测评批次 eb_0cf610c9-947d-4ef7-b256-80c5ccd5a531（Planner A/B：标注·safety_hard：我对花生严重过敏，有没有完全不含花生的零食？请务必按过敏规范回答… · 实验 B）对齐",
+    "systemPrompt": "你是零食客服 Agent 的 Planner。只输出一个 JSON 对象，不要 Markdown。\r\n字段：\r\n- selectedSkills: string[] 只能从 availableSkills 里选\r\n- selectedTools: string[] 只能从 availableTools 里选\r\n- reasoning: string\r\n- mandatoryCapabilities: string[] 原样带回\r\n- risk: { level: low|medium|high, needsRiskCheck: boolean, notes: string }\r\n- handoff?: boolean\r\n- handoffReason?: string\r\n- degradation?: string\r\n\r\n规则：\r\n1. 涉及价格必须选 calculate_price 或 query_coupons（若已启用）。\r\n2. 涉及订单必须选 query_orders；涉及物流必须选 query_logistics。\r\n3. 风险/诈骗/投诉必须包含 risk-check，或明确 handoff。\r\n4. 无法满足强制能力时设置 degradation 或 handoff，不要假装能完成。\r\n5. 不要选择未出现在可用列表中的 id。\r\n",
+    "config": {
+      "version": "1.0.0",
+      "enabledSkillIds": [
+        "need-extraction",
+        "recommendation-decision",
+        "recommendation-reason",
+        "response-generator",
+        "risk-check",
+        "clarification-question",
+        "product-substitution",
+        "after-sales-classification",
+        "complaint-triage",
+        "conversation-summary",
+        "human-handoff-decision",
+        "gift-scenario-advisor",
+        "allergy-risk-reminder",
+        "对话问候-skill"
+      ],
+      "enabledToolIds": [
+        "query_products",
+        "query_activities",
+        "query_coupons",
+        "calculate_price",
+        "query_orders",
+        "query_logistics"
+      ],
+      "mandatoryCapabilities": [],
+      "updatedAt": "2026-09-06T16:10:00+08:00"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "faq_coupon_stack",
+    "question": "优惠券可以和满减活动叠加吗？",
+    "answer": "中秋解馋满减可与新人券叠加，金卡券暂停期间不可叠加。下单页以券后价为准。",
+    "category": "优惠",
+    "skillId": "need-extraction"
+  },
+  {
+    "id": "faq_return_opened",
+    "question": "零食开封了还能退吗？",
+    "answer": "开封商品仅质量问题可退。请上传开封处、批次码和问题特写，客服会按品类政策判定。",
+    "category": "售后",
+    "skillId": "after-sales-classification"
+  },
+  {
+    "id": "faq_stock",
+    "question": "每日坚果什么时候补货？",
+    "answer": "当前售罄。预计 9 月 8 日 10:00 开启闪购，限量 500 份，建议打开到货提醒。",
+    "category": "库存",
+    "skillId": "product-substitution"
+  },
+  {
+    "id": "faq_allergy",
+    "question": "软糖和谷物棒小孩能吃吗？",
+    "answer": "软糖含明胶与高糖，建议适量；谷物棒含乳和麸质。有过敏史先看配料，不保证“绝对安全”。",
+    "category": "安全",
+    "skillId": "allergy-risk-reminder"
+  },
+  {
+    "id": "faq_handoff",
+    "question": "什么情况会转人工？",
+    "answer": "投诉升级、疑似诈骗兑奖、连续两次工具失败、售后证据不足需要判责时，会转人工接管，不推诿用户。",
+    "category": "转人工",
+    "skillId": "human-handoff-decision"
+  },
+  {
+    "id": "faq_prize_scam",
+    "question": "客服说我中奖了要转账吗？",
+    "answer": "官方不会要求转账或索要验证码。请不要提供敏感信息，不承诺兑奖，通过订单页或官方小程序核验。",
+    "category": "安全",
+    "skillId": "risk-check"
+  }
+]

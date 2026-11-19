@@ -1,0 +1,31 @@
+[
+  {
+    "id": "tv_cdce6cf5-b24a-4ebe-8fbf-c2e1a837e89b",
+    "toolId": "query_products",
+    "createdAt": "2026-09-09T04:12:26.401Z",
+    "changeNote": "运营修订 Tool 配置",
+    "name": "查询商品",
+    "description": "按关键词、分类、过敏原读取商品主数据。",
+    "enabled": true,
+    "timeoutMs": 1200
+  },
+  {
+    "id": "tv_d36dd076-6630-4ee4-961f-a31eb98402d0",
+    "toolId": "query_products",
+    "createdAt": "2026-09-09T04:12:02.006Z",
+    "changeNote": "运营修订 Tool 配置",
+    "name": "查询商品",
+    "description": "按关键词、分类、过敏原和上下架状态读取商品主数据。",
+    "enabled": true,
+    "timeoutMs": 1200
+  },
+  {
+    "id": "tv_8e4fb41a-5d44-47ce-95aa-e620bb6592b2",
+    "toolId": "query_products",
+    "createdAt": "2026-09-09T03:53:57.393Z",
+    "changeNote": "运营修订 Tool 配置",
+    "name": "查询商品",
+    "description": "按关键词、分类、过敏原和上下架状态读取商品主数据。",
+    "enabled": true
+  }
+]

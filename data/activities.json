@@ -1,0 +1,26 @@
+[
+  {
+    "id": "act_mid_autumn",
+    "name": "中秋解馋满减",
+    "productIds": ["prd_kelp_spicy", "prd_gummy_peach", "prd_yogurt_bar", "prd_gift_autumn"],
+    "rule": "指定商品满 39 元减 8 元，可与新人券叠加",
+    "thresholdFen": 3900,
+    "discountKind": "amount",
+    "discountValue": 800,
+    "startsAt": "2026-09-01T00:00:00+08:00",
+    "endsAt": "2026-09-17T23:59:59+08:00",
+    "status": "live"
+  },
+  {
+    "id": "act_nuts_flash",
+    "name": "坚果闪购补货预告",
+    "productIds": ["prd_nuts_mixed"],
+    "rule": "到货后 2 小时限量 500 份，满 1 件无额外减免",
+    "thresholdFen": 990,
+    "discountKind": "amount",
+    "discountValue": 0,
+    "startsAt": "2026-09-08T10:00:00+08:00",
+    "endsAt": "2026-09-08T12:00:00+08:00",
+    "status": "draft"
+  }
+]

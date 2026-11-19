@@ -1,0 +1,231 @@
+[
+  {
+    "id": "query_products",
+    "name": "查询商品",
+    "description": "按关键词、分类、过敏原读取商品主数据。",
+    "enabled": true,
+    "status": "ready",
+    "timeoutMs": 1200,
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "keyword": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "allergen": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "on_sale",
+            "sold_out",
+            "off_shelf"
+          ]
+        }
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "items": {
+          "type": "array"
+        },
+        "count": {
+          "type": "number"
+        }
+      }
+    }
+  },
+  {
+    "id": "query_activities",
+    "name": "查询活动",
+    "description": "读取满减/闪购活动的门槛、优惠和有效期。",
+    "enabled": true,
+    "status": "ready",
+    "timeoutMs": 1000,
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "draft",
+            "live",
+            "ended"
+          ]
+        },
+        "productId": {
+          "type": "string"
+        }
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "items": {
+          "type": "array"
+        },
+        "count": {
+          "type": "number"
+        }
+      }
+    }
+  },
+  {
+    "id": "query_coupons",
+    "name": "查询优惠券",
+    "description": "按券码、适用商品和新客限制查询优惠券。",
+    "enabled": true,
+    "status": "ready",
+    "timeoutMs": 1000,
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string"
+        },
+        "productId": {
+          "type": "string"
+        },
+        "newCustomerOnly": {
+          "type": "boolean"
+        }
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "items": {
+          "type": "array"
+        },
+        "count": {
+          "type": "number"
+        }
+      }
+    }
+  },
+  {
+    "id": "calculate_price",
+    "name": "计算价格",
+    "description": "按商品标价、活动门槛和优惠券计算应付金额。",
+    "enabled": true,
+    "status": "ready",
+    "timeoutMs": 1500,
+    "inputSchema": {
+      "type": "object",
+      "required": [
+        "items"
+      ],
+      "properties": {
+        "userId": {
+          "type": "string"
+        },
+        "couponCode": {
+          "type": "string"
+        },
+        "activityId": {
+          "type": "string"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "sku",
+              "quantity"
+            ],
+            "properties": {
+              "sku": {
+                "type": "string"
+              },
+              "quantity": {
+                "type": "integer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "subtotalFen": {
+          "type": "number"
+        },
+        "activityDiscountFen": {
+          "type": "number"
+        },
+        "couponDiscountFen": {
+          "type": "number"
+        },
+        "payableFen": {
+          "type": "number"
+        }
+      }
+    }
+  },
+  {
+    "id": "query_orders",
+    "name": "查询订单",
+    "description": "按订单号或用户读取订单、金额和售后状态。",
+    "enabled": true,
+    "status": "ready",
+    "timeoutMs": 1500,
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "orderId": {
+          "type": "string"
+        },
+        "userId": {
+          "type": "string"
+        }
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "items": {
+          "type": "array"
+        },
+        "count": {
+          "type": "number"
+        }
+      }
+    }
+  },
+  {
+    "id": "query_logistics",
+    "name": "查询物流",
+    "description": "按订单号或运单号读取物流轨迹。",
+    "enabled": true,
+    "status": "ready",
+    "timeoutMs": 1200,
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "orderId": {
+          "type": "string"
+        },
+        "trackingNo": {
+          "type": "string"
+        }
+      }
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "items": {
+          "type": "array"
+        },
+        "count": {
+          "type": "number"
+        }
+      }
+    }
+  }
+]

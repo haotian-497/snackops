@@ -1,0 +1,4 @@
+{
+  "id": "calculate_price",
+  "implementation": "src/lib/tools/calculate-price.ts"
+}

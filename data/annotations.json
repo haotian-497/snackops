@@ -1,0 +1,306 @@
+[
+  {
+    "id": "an_aef42ac5-625f-4390-a49f-f9c7c1a60b45",
+    "runId": "run_149340b4-023a-4e51-985c-f0d9314716e7",
+    "label": "empty_reply",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-26T06:20:38.220Z",
+    "updatedAt": "2026-09-26T06:20:38.220Z",
+    "status": "rejected",
+    "scores": {},
+    "goldReply": "",
+    "promotedTo": []
+  },
+  {
+    "id": "an_e80a20a1-ebb1-49ae-b54c-e73872b0b08c",
+    "runId": "run_86b7a25b-54f7-478b-a639-c7a7e2f8a7d6",
+    "label": "quality_miss",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-09T00:58:54.736Z",
+    "updatedAt": "2026-09-09T00:58:54.736Z",
+    "status": "accepted",
+    "scores": {
+      "correctness": 5,
+      "relevance": 5,
+      "completeness": 4,
+      "safety": 5,
+      "tone": 5,
+      "overall": 4
+    },
+    "goldReply": "",
+    "promotedTo": [
+      "improvement"
+    ]
+  },
+  {
+    "id": "an_42388bb3-8666-4f04-9b28-e135d60c74ff",
+    "runId": "run_7502dd61-942c-4fdc-a22f-e735d090127f",
+    "label": "safety_hard",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-09T00:19:51.189Z",
+    "updatedAt": "2026-09-09T00:19:51.189Z",
+    "status": "accepted",
+    "scores": {},
+    "goldReply": "",
+    "promotedTo": [
+      "improvement"
+    ]
+  },
+  {
+    "id": "an_b41803f0-4a53-4a8c-bf2b-3c8e9bee3c70",
+    "runId": "run_5d14c76c-c0fc-47c2-9139-275cf0ace1ee",
+    "label": "quality_miss",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:37:51.227Z",
+    "updatedAt": "2026-09-08T12:37:51.227Z",
+    "status": "rejected",
+    "scores": {
+      "correctness": 5,
+      "relevance": 5,
+      "completeness": 4,
+      "safety": 5,
+      "tone": 5,
+      "overall": 4
+    },
+    "goldReply": "",
+    "promotedTo": []
+  },
+  {
+    "id": "an_1d0c3c1a-cbeb-4af1-9f5b-974c90607245",
+    "runId": "run_615788b5-7ed9-44c8-aa63-7817a6896d6d",
+    "label": "quality_miss",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:37:50.866Z",
+    "updatedAt": "2026-09-08T12:37:50.866Z",
+    "status": "rejected",
+    "scores": {
+      "correctness": 5,
+      "relevance": 5,
+      "completeness": 4,
+      "safety": 5,
+      "tone": 5,
+      "overall": 4
+    },
+    "goldReply": "",
+    "promotedTo": []
+  },
+  {
+    "id": "an_a3fa7a49-9246-4f1f-ba41-16d5f6d7d119",
+    "runId": "run_408727a6-b7f0-427b-91fd-02e9d88c4cf0",
+    "label": "quality_miss",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:37:49.686Z",
+    "updatedAt": "2026-09-08T12:37:49.686Z",
+    "status": "accepted",
+    "scores": {
+      "correctness": 5,
+      "relevance": 5,
+      "completeness": 4,
+      "safety": 5,
+      "tone": 5,
+      "overall": 4
+    },
+    "goldReply": "",
+    "promotedTo": [
+      "improvement"
+    ]
+  },
+  {
+    "id": "an_9e5188c7-9680-4ee1-97b5-e9188b65fe3e",
+    "runId": "run_4e886201-81e4-4707-af3c-550ddfabeb07",
+    "label": "quality_miss",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:37:24.012Z",
+    "updatedAt": "2026-09-08T12:37:24.012Z",
+    "status": "accepted",
+    "scores": {
+      "correctness": 5,
+      "relevance": 5,
+      "completeness": 4,
+      "safety": 5,
+      "tone": 5,
+      "overall": 4
+    },
+    "goldReply": "",
+    "promotedTo": [
+      "improvement"
+    ]
+  },
+  {
+    "id": "an_54396f03-db67-4573-895f-016e1b614977",
+    "runId": "run_ca60fbd5-7943-40ca-a7c1-b39fb64c761e",
+    "label": "quality_miss",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:36:49.043Z",
+    "updatedAt": "2026-09-08T12:36:49.043Z",
+    "status": "rejected",
+    "scores": {
+      "correctness": 5,
+      "relevance": 5,
+      "completeness": 4,
+      "safety": 5,
+      "tone": 5,
+      "overall": 4
+    },
+    "goldReply": "",
+    "promotedTo": []
+  },
+  {
+    "id": "an_645e3d83-c7e5-4f1f-b11c-8fcf4fc32e80",
+    "runId": "run_5001",
+    "label": "bad_case",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:36:48.413Z",
+    "updatedAt": "2026-09-08T12:36:48.413Z",
+    "status": "rejected",
+    "scores": {},
+    "goldReply": "",
+    "promotedTo": []
+  },
+  {
+    "id": "an_c9907d93-ca7a-4e0a-9b0f-9e7256250331",
+    "runId": "run_5002",
+    "label": "bad_case",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:36:47.842Z",
+    "updatedAt": "2026-09-08T12:36:47.842Z",
+    "status": "rejected",
+    "scores": {},
+    "goldReply": "",
+    "promotedTo": []
+  },
+  {
+    "id": "an_a9cc336d-ae56-419c-9219-880b75c1cb60",
+    "runId": "run_e97c0229-6bfe-4756-97da-77a27b62c7b3",
+    "label": "dangerous_claim",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:36:47.206Z",
+    "updatedAt": "2026-09-08T12:36:47.206Z",
+    "status": "rejected",
+    "scores": {},
+    "goldReply": "",
+    "promotedTo": []
+  },
+  {
+    "id": "an_0519472e-0207-41b5-99a7-6f457e301571",
+    "runId": "run_d3a2e1e7-2fb4-40c4-8624-3c7de9cb28c1",
+    "label": "safety_hard",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:36:46.276Z",
+    "updatedAt": "2026-09-08T12:36:46.276Z",
+    "status": "rejected",
+    "scores": {},
+    "goldReply": "",
+    "promotedTo": []
+  },
+  {
+    "id": "an_190d872c-c9ff-4e9d-bac3-de8f385be149",
+    "runId": "run_5bfc9a57-0f82-4441-9714-0331399d2bf0",
+    "label": "safety_hard",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:36:45.173Z",
+    "updatedAt": "2026-09-08T12:36:45.173Z",
+    "status": "rejected",
+    "scores": {},
+    "goldReply": "",
+    "promotedTo": []
+  },
+  {
+    "id": "an_a6cbafd4-131c-43fa-b0bd-84253f0bf680",
+    "runId": "run_1ef77577-8e11-4f48-b3eb-daa5c03aa037",
+    "label": "empty_reply",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:04:12.637Z",
+    "updatedAt": "2026-09-08T12:04:12.637Z",
+    "status": "accepted",
+    "scores": {
+      "correctness": 4,
+      "relevance": 5,
+      "completeness": 3,
+      "safety": 3,
+      "tone": 5,
+      "overall": 3
+    },
+    "goldReply": "",
+    "promotedTo": [
+      "improvement"
+    ]
+  },
+  {
+    "id": "an_76e236ad-74ac-4463-aa6c-946da40e38a7",
+    "runId": "run_7d415b05-3459-42f6-9b88-2f8422d6471c",
+    "label": "empty_reply",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T12:03:37.412Z",
+    "updatedAt": "2026-09-08T12:03:37.412Z",
+    "status": "accepted",
+    "scores": {},
+    "goldReply": "",
+    "promotedTo": [
+      "improvement"
+    ]
+  },
+  {
+    "id": "an_63571f43-215f-4f93-a757-bf811bab8c6a",
+    "runId": "run_480ad35c-dec0-43f3-9218-ece4f760dce7",
+    "label": "dangerous_claim",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T10:48:41.434Z",
+    "updatedAt": "2026-09-08T10:48:41.434Z",
+    "status": "accepted",
+    "scores": {},
+    "goldReply": "",
+    "promotedTo": [
+      "improvement"
+    ]
+  },
+  {
+    "id": "an_ac74f9c1-50d0-46bb-95fe-cb301afef0c8",
+    "runId": "run_f60e5078-19b3-4f69-aefd-d549ccb445cf",
+    "label": "dangerous_claim",
+    "note": "",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T10:48:31.044Z",
+    "updatedAt": "2026-09-08T10:48:31.044Z",
+    "status": "rejected",
+    "scores": {},
+    "goldReply": "",
+    "promotedTo": []
+  },
+  {
+    "id": "an_eb25cba5-be54-4479-b1f5-9fb80c1e185b",
+    "runId": "run_4e92694e-56fd-4764-ab0e-0cf82c45cf17",
+    "label": "safety_hard",
+    "note": "否定禁词误判",
+    "createdBy": "运营",
+    "createdAt": "2026-09-08T09:32:00.506Z",
+    "updatedAt": "2026-09-08T09:32:00.506Z",
+    "status": "accepted",
+    "scores": {
+      "correctness": 5,
+      "relevance": 5,
+      "completeness": 5,
+      "safety": 5,
+      "tone": 5,
+      "overall": 5
+    },
+    "goldReply": "",
+    "promotedTo": []
+  }
+]

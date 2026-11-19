@@ -1,0 +1,2198 @@
+[
+  {
+    "id": "lv_1e95d58f-66b6-42ce-a2c2-46950a66b4a7",
+    "createdAt": "2026-10-18T00:28:14.065Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-10-18T00:28:13.062Z"
+    }
+  },
+  {
+    "id": "lv_3a4e3318-980a-4549-a4e8-de61cd5b72a7",
+    "createdAt": "2026-10-18T00:28:13.052Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-10-10T01:15:16.049Z"
+    }
+  },
+  {
+    "id": "lv_966214c1-55f8-4ec8-8964-be62dec9c7a7",
+    "createdAt": "2026-10-10T01:15:16.041Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k2.6",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-10-10T01:15:15.270Z"
+    }
+  },
+  {
+    "id": "lv_cc3e316b-398d-400c-9a7f-5d417189f96d",
+    "createdAt": "2026-10-10T01:15:15.263Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-10-10T01:15:13.139Z"
+    }
+  },
+  {
+    "id": "lv_ef31db01-316b-4a1b-8ba5-157304cdb9eb",
+    "createdAt": "2026-10-10T01:15:13.130Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-10-10T01:15:12.841Z"
+    }
+  },
+  {
+    "id": "lv_4fb2ebd7-553f-46a7-a96c-d07dfa5a68ff",
+    "createdAt": "2026-10-10T01:15:12.832Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-10-10T01:15:12.537Z"
+    }
+  },
+  {
+    "id": "lv_49afac9a-5c8c-420a-bab7-e27721faa52f",
+    "createdAt": "2026-10-10T01:15:12.528Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:43:12.889Z"
+    }
+  },
+  {
+    "id": "lv_22ba86fa-c59a-4db9-843c-ea665ca484be",
+    "createdAt": "2026-09-30T01:43:12.882Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k2.6",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:16:37.825Z"
+    }
+  },
+  {
+    "id": "lv_b2db6e23-8fbb-4ab3-9988-1951a49b1f2f",
+    "createdAt": "2026-09-30T01:16:37.805Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:16:29.399Z"
+    }
+  },
+  {
+    "id": "lv_50a6c5ad-ef8e-480e-bc25-513f3792e38c",
+    "createdAt": "2026-09-30T01:16:29.392Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:16:09.930Z"
+    }
+  },
+  {
+    "id": "lv_a2b16290-8575-49bc-8eaf-078c6ec586aa",
+    "createdAt": "2026-09-30T01:16:09.921Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:16:09.152Z"
+    }
+  },
+  {
+    "id": "lv_dd248515-34f8-459d-a7f1-789f78524204",
+    "createdAt": "2026-09-30T01:16:09.144Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:58.803Z"
+    }
+  },
+  {
+    "id": "lv_6cbe3414-aec6-4576-b033-2c37e9c6c9e2",
+    "createdAt": "2026-09-30T01:15:58.794Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:56.746Z"
+    }
+  },
+  {
+    "id": "lv_9998b9b8-dba7-4388-af3a-ef0b41ef7309",
+    "createdAt": "2026-09-30T01:15:56.734Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:55.865Z"
+    }
+  },
+  {
+    "id": "lv_60da2c4b-1ae9-4f87-b26b-b253041c1aa6",
+    "createdAt": "2026-09-30T01:15:55.854Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:54.970Z"
+    }
+  },
+  {
+    "id": "lv_414747dc-67f9-402f-83e8-673e2f3896f2",
+    "createdAt": "2026-09-30T01:15:54.962Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:52.157Z"
+    }
+  },
+  {
+    "id": "lv_2cbd6553-7cf0-438c-8aef-ad56e43ea419",
+    "createdAt": "2026-09-30T01:15:52.143Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:49.726Z"
+    }
+  },
+  {
+    "id": "lv_687d8fa0-fdd7-4be4-9a47-916c5d5ee9df",
+    "createdAt": "2026-09-30T01:15:49.710Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:48.767Z"
+    }
+  },
+  {
+    "id": "lv_98625de3-dc2a-4740-9218-109a4ef6fbac",
+    "createdAt": "2026-09-30T01:15:48.755Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:48.446Z"
+    }
+  },
+  {
+    "id": "lv_730d5794-2fd6-4126-bcf2-90ca72c8a938",
+    "createdAt": "2026-09-30T01:15:48.433Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:48.035Z"
+    }
+  },
+  {
+    "id": "lv_cf1ea95a-824f-41cd-96a7-b6c69a51902f",
+    "createdAt": "2026-09-30T01:15:48.024Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:47.740Z"
+    }
+  },
+  {
+    "id": "lv_37dd4fdb-8acf-4f1c-8df8-f48629f7c4b6",
+    "createdAt": "2026-09-30T01:15:47.728Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:47.371Z"
+    }
+  },
+  {
+    "id": "lv_cab92f1f-c451-489f-b342-bbaafa847f60",
+    "createdAt": "2026-09-30T01:15:47.354Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:46.992Z"
+    }
+  },
+  {
+    "id": "lv_b4e21497-b3e8-4614-ba75-889daa4be1dd",
+    "createdAt": "2026-09-30T01:15:46.980Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:46.570Z"
+    }
+  },
+  {
+    "id": "lv_648a1a32-ea7f-489b-8c1e-aa3ad7c4ed60",
+    "createdAt": "2026-09-30T01:15:46.556Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:46.157Z"
+    }
+  },
+  {
+    "id": "lv_aa1b71d6-0351-448a-a4ed-dbecb4864c4b",
+    "createdAt": "2026-09-30T01:15:46.148Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:30.060Z"
+    }
+  },
+  {
+    "id": "lv_fd43d2cd-c26e-42b3-a679-e4cc96e8327a",
+    "createdAt": "2026-09-30T01:15:30.049Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:29.528Z"
+    }
+  },
+  {
+    "id": "lv_dd3f2ab4-b5c9-4341-bbe9-e8f3342a09c6",
+    "createdAt": "2026-09-30T01:15:29.517Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:28.375Z"
+    }
+  },
+  {
+    "id": "lv_53ede6f8-977a-423a-ae45-c098605f6721",
+    "createdAt": "2026-09-30T01:15:28.359Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:27.900Z"
+    }
+  },
+  {
+    "id": "lv_f823d16b-1441-4bba-af39-3caf2384ecdd",
+    "createdAt": "2026-09-30T01:15:27.889Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:27.120Z"
+    }
+  },
+  {
+    "id": "lv_3ca62b54-0d9b-4237-911e-8ad5f5e7e393",
+    "createdAt": "2026-09-30T01:15:27.111Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:26.405Z"
+    }
+  },
+  {
+    "id": "lv_703b0538-ea60-47fc-a21a-83224fced48e",
+    "createdAt": "2026-09-30T01:15:26.397Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:25.688Z"
+    }
+  },
+  {
+    "id": "lv_c6d285a9-1d57-4e5f-8beb-db04c5ba58df",
+    "createdAt": "2026-09-30T01:15:25.679Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:25.113Z"
+    }
+  },
+  {
+    "id": "lv_b189e860-2354-44be-9ad1-e473d7e924ae",
+    "createdAt": "2026-09-30T01:15:25.082Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:23.883Z"
+    }
+  },
+  {
+    "id": "lv_1af7e464-0dcc-49c2-822b-75376055aeea",
+    "createdAt": "2026-09-30T01:15:23.865Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:22.894Z"
+    }
+  },
+  {
+    "id": "lv_e4ea504c-ebac-4a6a-8025-bfa52d9bfedd",
+    "createdAt": "2026-09-30T01:15:22.885Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:19.863Z"
+    }
+  },
+  {
+    "id": "lv_6d4808f3-61ef-4e5f-99bc-b312a4168526",
+    "createdAt": "2026-09-30T01:15:19.853Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:14.541Z"
+    }
+  },
+  {
+    "id": "lv_cf174dd7-f6b5-40f9-b4e1-78cfeeddfe7e",
+    "createdAt": "2026-09-30T01:15:14.526Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:12.323Z"
+    }
+  },
+  {
+    "id": "lv_1cd20e0c-db13-4deb-96fc-cb6b2e7f07f1",
+    "createdAt": "2026-09-30T01:15:12.314Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:11.445Z"
+    }
+  },
+  {
+    "id": "lv_9f0c978e-1e25-474b-b326-024281ec4a8c",
+    "createdAt": "2026-09-30T01:15:11.437Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:08.998Z"
+    }
+  },
+  {
+    "id": "lv_d6efeb93-9dbd-47f0-8b91-48c3761375f3",
+    "createdAt": "2026-09-30T01:15:08.988Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:06.800Z"
+    }
+  },
+  {
+    "id": "lv_763f000a-514e-48f1-a50f-689944b13b45",
+    "createdAt": "2026-09-30T01:15:06.793Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:05.833Z"
+    }
+  },
+  {
+    "id": "lv_2d3900fc-18e3-4769-affd-e68bedcc19a1",
+    "createdAt": "2026-09-30T01:15:05.824Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:15:03.345Z"
+    }
+  },
+  {
+    "id": "lv_6ca7edac-566a-45d4-a28f-0c7371bd26b1",
+    "createdAt": "2026-09-30T01:15:03.335Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:14:59.108Z"
+    }
+  },
+  {
+    "id": "lv_35dd5ddf-9a66-493e-8b29-daaddb131009",
+    "createdAt": "2026-09-30T01:14:59.095Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:14:58.314Z"
+    }
+  },
+  {
+    "id": "lv_43173540-7471-4773-b285-766f8150abe5",
+    "createdAt": "2026-09-30T01:14:58.305Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "kimi-k3",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:06:56.660Z"
+    }
+  },
+  {
+    "id": "lv_7a0c02f0-7276-4322-bfe7-68e8a8087ea7",
+    "createdAt": "2026-09-30T01:06:56.650Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:00:27.799Z"
+    }
+  },
+  {
+    "id": "lv_53fadce5-e112-492e-b2ca-ee8fb962d227",
+    "createdAt": "2026-09-30T01:00:27.787Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:00:27.067Z"
+    }
+  },
+  {
+    "id": "lv_570fc5de-2d24-44f8-a351-94f219c3a227",
+    "createdAt": "2026-09-30T01:00:27.056Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:00:19.090Z"
+    }
+  },
+  {
+    "id": "lv_eb75b461-4c3d-44cc-8852-0e7f3bffff8d",
+    "createdAt": "2026-09-30T01:00:19.080Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:00:16.532Z"
+    }
+  },
+  {
+    "id": "lv_0bc01e33-ec79-4051-8174-13756ff7ba87",
+    "createdAt": "2026-09-30T01:00:16.524Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T01:00:10.229Z"
+    }
+  },
+  {
+    "id": "lv_08131124-efa3-42f1-b447-dd2b93aa165c",
+    "createdAt": "2026-09-30T01:00:10.221Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T00:59:18.047Z"
+    }
+  },
+  {
+    "id": "lv_422ba93b-51e0-438c-bf82-6afda820bbf9",
+    "createdAt": "2026-09-30T00:59:18.038Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T00:59:15.463Z"
+    }
+  },
+  {
+    "id": "lv_63f92d54-aaa6-4382-8393-a6ffa0922d07",
+    "createdAt": "2026-09-30T00:59:15.447Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T00:59:13.839Z"
+    }
+  },
+  {
+    "id": "lv_b70b707e-a96b-4833-acba-30ef8b79b5c6",
+    "createdAt": "2026-09-30T00:59:13.830Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T00:58:59.372Z"
+    }
+  },
+  {
+    "id": "lv_2ea21327-5959-48b5-8fbb-803221d28664",
+    "createdAt": "2026-09-30T00:58:59.363Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T00:58:57.867Z"
+    }
+  },
+  {
+    "id": "lv_6d6217e8-b02c-4b63-a618-1e88b92fd928",
+    "createdAt": "2026-09-30T00:58:57.859Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T00:58:51.158Z"
+    }
+  },
+  {
+    "id": "lv_f7397d9c-318c-43c2-9551-6ab793a28669",
+    "createdAt": "2026-09-30T00:58:51.149Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T00:58:44.754Z"
+    }
+  },
+  {
+    "id": "lv_93eb6147-f657-4e3d-9c6e-d53b949797c0",
+    "createdAt": "2026-09-30T00:58:44.743Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T00:58:41.697Z"
+    }
+  },
+  {
+    "id": "lv_9af9e94b-1a42-4b7a-bb56-62aaeea70b7d",
+    "createdAt": "2026-09-30T00:58:41.685Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-30T00:58:41.014Z"
+    }
+  },
+  {
+    "id": "lv_40adc33b-c826-4d88-80d2-d76cd4760f16",
+    "createdAt": "2026-09-30T00:58:41.005Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T09:34:04.210Z"
+    }
+  },
+  {
+    "id": "lv_f5e59e6a-4990-478c-9ad4-6fb389b26c4e",
+    "createdAt": "2026-09-26T09:34:04.204Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T09:33:51.802Z"
+    }
+  },
+  {
+    "id": "lv_2af65d06-94e2-40d6-ad9f-b2ade438eaa2",
+    "createdAt": "2026-09-26T09:33:51.795Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T09:33:49.422Z"
+    }
+  },
+  {
+    "id": "lv_e730646d-08e0-46f0-9500-a1eba9b5117e",
+    "createdAt": "2026-09-26T09:33:49.413Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T09:33:49.013Z"
+    }
+  },
+  {
+    "id": "lv_e90cee1e-89a6-4be4-9f49-f2dd599983e0",
+    "createdAt": "2026-09-26T09:33:49.006Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T09:33:48.428Z"
+    }
+  },
+  {
+    "id": "lv_1afad144-ea8d-417a-9462-7b493ee4a396",
+    "createdAt": "2026-09-26T09:33:48.421Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T09:33:48.145Z"
+    }
+  },
+  {
+    "id": "lv_ce81d4b7-2c8e-4f38-8744-2a1682eacdf0",
+    "createdAt": "2026-09-26T09:33:48.140Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T06:14:02.302Z"
+    }
+  },
+  {
+    "id": "lv_fab91a9d-cf36-41c3-a27f-67c6b8ba3b73",
+    "createdAt": "2026-09-26T06:14:02.295Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T06:14:01.602Z"
+    }
+  },
+  {
+    "id": "lv_9e076a7f-20b0-41d2-b8c6-17d4cbac30ee",
+    "createdAt": "2026-09-26T06:14:01.594Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T06:13:59.110Z"
+    }
+  },
+  {
+    "id": "lv_d323ac12-0f8c-491e-b523-9b50bde811a1",
+    "createdAt": "2026-09-26T06:13:59.104Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T06:13:57.886Z"
+    }
+  },
+  {
+    "id": "lv_2b25a1f5-9ff1-414d-838a-2cb3bf78d2df",
+    "createdAt": "2026-09-26T06:13:57.878Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T06:13:56.816Z"
+    }
+  },
+  {
+    "id": "lv_3d3b59ad-d7aa-401f-953e-697466561dfa",
+    "createdAt": "2026-09-26T06:13:56.807Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T06:13:56.344Z"
+    }
+  },
+  {
+    "id": "lv_b9a636f5-abce-4844-89f5-06651792628d",
+    "createdAt": "2026-09-26T06:13:56.336Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T06:13:55.928Z"
+    }
+  },
+  {
+    "id": "lv_e29d62cf-f976-4c7f-9e26-a77c4e7153c2",
+    "createdAt": "2026-09-26T06:13:55.920Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T06:13:55.571Z"
+    }
+  },
+  {
+    "id": "lv_ad1e85b0-1f0a-47f4-9824-fd1caf6e904c",
+    "createdAt": "2026-09-26T06:13:55.565Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T06:13:44.193Z"
+    }
+  },
+  {
+    "id": "lv_bea86f4f-7e73-414c-a243-6788a9570b20",
+    "createdAt": "2026-09-26T06:13:44.186Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-26T06:13:42.704Z"
+    }
+  },
+  {
+    "id": "lv_c8fed736-726d-4f8c-89df-af3d86dd874e",
+    "createdAt": "2026-09-26T06:13:42.681Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T05:25:42.349Z"
+    }
+  },
+  {
+    "id": "lv_74d734a8-7ab5-4a91-96a7-e2b0b38574fc",
+    "createdAt": "2026-09-11T05:25:42.341Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T05:25:41.577Z"
+    }
+  },
+  {
+    "id": "lv_a3086e69-c0c8-449d-ab30-1961c3dc47f2",
+    "createdAt": "2026-09-11T05:25:41.569Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T05:25:41.338Z"
+    }
+  },
+  {
+    "id": "lv_372a3033-5d77-4022-9ccd-2f4ed1fdc5b4",
+    "createdAt": "2026-09-11T05:25:41.329Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T05:25:41.079Z"
+    }
+  },
+  {
+    "id": "lv_8e038479-a9fa-4f8f-97e1-ce352c7b8e5b",
+    "createdAt": "2026-09-11T05:25:41.073Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T05:25:40.742Z"
+    }
+  },
+  {
+    "id": "lv_509a3e98-2a7d-40a9-85ce-ad1255032fdd",
+    "createdAt": "2026-09-11T05:25:40.734Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:28.343Z"
+    }
+  },
+  {
+    "id": "lv_302a8a99-ab89-43c1-9792-45abd2b3b557",
+    "createdAt": "2026-09-11T04:20:28.336Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:22.602Z"
+    }
+  },
+  {
+    "id": "lv_a4fe734a-385d-4348-bcb1-fa9347efc184",
+    "createdAt": "2026-09-11T04:20:22.595Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:22.266Z"
+    }
+  },
+  {
+    "id": "lv_f35c67c1-70fe-4f20-b6a7-829ffc55e79f",
+    "createdAt": "2026-09-11T04:20:22.259Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:21.679Z"
+    }
+  },
+  {
+    "id": "lv_929daf40-c645-43fa-bb2b-a0ea3135e59c",
+    "createdAt": "2026-09-11T04:20:21.668Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:21.386Z"
+    }
+  },
+  {
+    "id": "lv_4ea2c2dc-0c26-4597-8ba1-4e98c1576941",
+    "createdAt": "2026-09-11T04:20:21.381Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:21.089Z"
+    }
+  },
+  {
+    "id": "lv_5288fadc-cf99-4171-b5ec-95ae80dd8a65",
+    "createdAt": "2026-09-11T04:20:21.082Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:20.805Z"
+    }
+  },
+  {
+    "id": "lv_d2b82abe-a06c-4bda-a983-07885a6ed5e2",
+    "createdAt": "2026-09-11T04:20:20.798Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:20.493Z"
+    }
+  },
+  {
+    "id": "lv_5b4d84b6-9c32-4122-9fbc-8bc9e0d35870",
+    "createdAt": "2026-09-11T04:20:20.486Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:20.217Z"
+    }
+  },
+  {
+    "id": "lv_340919c9-7bdf-4b07-b79a-61bd7ab42584",
+    "createdAt": "2026-09-11T04:20:20.209Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:19.915Z"
+    }
+  },
+  {
+    "id": "lv_a3a68d0c-190d-4ba4-87a6-6eb42e2b1ea5",
+    "createdAt": "2026-09-11T04:20:19.908Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:19.604Z"
+    }
+  },
+  {
+    "id": "lv_c235aa98-027b-4c75-bb7b-f3dca49f2721",
+    "createdAt": "2026-09-11T04:20:19.596Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:17.264Z"
+    }
+  },
+  {
+    "id": "lv_e918bc43-c9eb-4744-b1b8-2fa16373e5e7",
+    "createdAt": "2026-09-11T04:20:17.244Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:16.672Z"
+    }
+  },
+  {
+    "id": "lv_d63ba936-9f10-4eec-b171-16c717299338",
+    "createdAt": "2026-09-11T04:20:16.666Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:14.700Z"
+    }
+  },
+  {
+    "id": "lv_41069d39-9080-42f4-8e68-22d74f5c21dc",
+    "createdAt": "2026-09-11T04:20:14.694Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:14.313Z"
+    }
+  },
+  {
+    "id": "lv_ff9af172-83ef-410c-a735-cc0045409178",
+    "createdAt": "2026-09-11T04:20:14.305Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:13.150Z"
+    }
+  },
+  {
+    "id": "lv_95f9393a-c633-49d1-894d-a4dbfc4a3e2b",
+    "createdAt": "2026-09-11T04:20:13.144Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:20:12.595Z"
+    }
+  },
+  {
+    "id": "lv_b22bb751-321e-408c-9e7f-dedd1120eb4d",
+    "createdAt": "2026-09-11T04:20:12.588Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:59.056Z"
+    }
+  },
+  {
+    "id": "lv_2ed1cdd9-68c4-4831-9fa1-7431b2bd8ea3",
+    "createdAt": "2026-09-11T04:19:59.043Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:56.725Z"
+    }
+  },
+  {
+    "id": "lv_c63bed66-f7da-4731-9b46-a765f8a9365c",
+    "createdAt": "2026-09-11T04:19:56.719Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:55.714Z"
+    }
+  },
+  {
+    "id": "lv_1b9dc3b6-1860-44ce-a947-56aa6c12e9b0",
+    "createdAt": "2026-09-11T04:19:55.708Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:53.027Z"
+    }
+  },
+  {
+    "id": "lv_b2eb2ff5-0127-4036-aafb-f14365769649",
+    "createdAt": "2026-09-11T04:19:53.019Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:48.228Z"
+    }
+  },
+  {
+    "id": "lv_e888ae15-2b67-4b8a-8f21-22a3bafb6ab9",
+    "createdAt": "2026-09-11T04:19:48.222Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:44.475Z"
+    }
+  },
+  {
+    "id": "lv_65d415a9-11f6-46b7-bf3c-3ee610d446ad",
+    "createdAt": "2026-09-11T04:19:44.468Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:37.981Z"
+    }
+  },
+  {
+    "id": "lv_ec7a79a5-e99e-4f6c-ab5e-a9045a860249",
+    "createdAt": "2026-09-11T04:19:37.975Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:37.409Z"
+    }
+  },
+  {
+    "id": "lv_100cd8fb-d5b7-4ddd-83a2-96199677e1f1",
+    "createdAt": "2026-09-11T04:19:37.401Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:36.824Z"
+    }
+  },
+  {
+    "id": "lv_52a8da5f-199b-4395-9752-0927f398f43e",
+    "createdAt": "2026-09-11T04:19:36.815Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:36.429Z"
+    }
+  },
+  {
+    "id": "lv_8cf3b86c-fefa-48fe-982a-c5882291a1c9",
+    "createdAt": "2026-09-11T04:19:36.422Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:35.931Z"
+    }
+  },
+  {
+    "id": "lv_ea90aa0d-f753-4f7f-8296-9344905007d8",
+    "createdAt": "2026-09-11T04:19:35.921Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:35.277Z"
+    }
+  },
+  {
+    "id": "lv_f620c400-db22-4c11-ac73-7e5cbb363c36",
+    "createdAt": "2026-09-11T04:19:35.268Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:33.649Z"
+    }
+  },
+  {
+    "id": "lv_a86dc06b-5bad-407c-941e-ac4c7c228809",
+    "createdAt": "2026-09-11T04:19:33.612Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:33.009Z"
+    }
+  },
+  {
+    "id": "lv_c8c92fe4-2863-49e8-b3a8-5519e8dda117",
+    "createdAt": "2026-09-11T04:19:33.000Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:31.538Z"
+    }
+  },
+  {
+    "id": "lv_91d67e82-0ab0-4b1e-952d-12e27ad1d9b2",
+    "createdAt": "2026-09-11T04:19:31.528Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:30.644Z"
+    }
+  },
+  {
+    "id": "lv_15c6de77-5e05-4f7f-8c3b-9ad67b4a77e6",
+    "createdAt": "2026-09-11T04:19:30.633Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:26.822Z"
+    }
+  },
+  {
+    "id": "lv_16df380e-fac7-4420-969e-3868db7390d5",
+    "createdAt": "2026-09-11T04:19:26.812Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:19:26.313Z"
+    }
+  },
+  {
+    "id": "lv_66ca1d04-9a09-4336-ac4d-abf30d134dd4",
+    "createdAt": "2026-09-11T04:19:26.304Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:46.520Z"
+    }
+  },
+  {
+    "id": "lv_bcfa834b-e2ac-4f7a-9467-16739bdbf994",
+    "createdAt": "2026-09-11T04:16:46.513Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:46.018Z"
+    }
+  },
+  {
+    "id": "lv_6cdb7cb2-e72d-4299-bda8-3b7179577658",
+    "createdAt": "2026-09-11T04:16:46.011Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:45.415Z"
+    }
+  },
+  {
+    "id": "lv_4cc7c179-24fc-44c5-9efa-acdd37e4d04d",
+    "createdAt": "2026-09-11T04:16:45.408Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:45.121Z"
+    }
+  },
+  {
+    "id": "lv_b849a546-0983-4959-a56f-628a93bc2e11",
+    "createdAt": "2026-09-11T04:16:45.115Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:44.844Z"
+    }
+  },
+  {
+    "id": "lv_c5a873a4-3688-4223-b74f-4b6728b60847",
+    "createdAt": "2026-09-11T04:16:44.835Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:44.510Z"
+    }
+  },
+  {
+    "id": "lv_0a33cd53-dcba-4dd6-aebe-dca988ee56d4",
+    "createdAt": "2026-09-11T04:16:44.504Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:44.250Z"
+    }
+  },
+  {
+    "id": "lv_174b9949-1edf-4560-bab8-da764465d8e2",
+    "createdAt": "2026-09-11T04:16:44.244Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:43.014Z"
+    }
+  },
+  {
+    "id": "lv_b21e8a7f-4bc2-4f99-a8d8-88e1b31c4381",
+    "createdAt": "2026-09-11T04:16:43.007Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:41.679Z"
+    }
+  },
+  {
+    "id": "lv_2b074cbd-5863-47f7-824a-43fc08f29b3b",
+    "createdAt": "2026-09-11T04:16:41.671Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:40.635Z"
+    }
+  },
+  {
+    "id": "lv_a31d9ccd-aa52-4566-9416-745e12317745",
+    "createdAt": "2026-09-11T04:16:40.629Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:39.232Z"
+    }
+  },
+  {
+    "id": "lv_ed4d8fc1-28f2-4516-8f1f-2c6a62c01007",
+    "createdAt": "2026-09-11T04:16:39.226Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:38.220Z"
+    }
+  },
+  {
+    "id": "lv_62b0c06d-6b2f-4c23-9736-b00649cb08b2",
+    "createdAt": "2026-09-11T04:16:38.214Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:37.838Z"
+    }
+  },
+  {
+    "id": "lv_4f07444b-653a-4989-8133-13ec746e49a7",
+    "createdAt": "2026-09-11T04:16:37.825Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:37.374Z"
+    }
+  },
+  {
+    "id": "lv_4eca8cfe-72ed-41cd-93f9-c05cd2ad1431",
+    "createdAt": "2026-09-11T04:16:37.367Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:36.459Z"
+    }
+  },
+  {
+    "id": "lv_a39357e2-f3ea-4b0b-acbc-aaaae78069ba",
+    "createdAt": "2026-09-11T04:16:36.452Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:35.636Z"
+    }
+  },
+  {
+    "id": "lv_cd1ae167-f12f-4a97-9997-0fadb72e3f58",
+    "createdAt": "2026-09-11T04:16:35.630Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:35.261Z"
+    }
+  },
+  {
+    "id": "lv_8c21ebaf-2694-4d73-a834-b77573fd4aa3",
+    "createdAt": "2026-09-11T04:16:35.254Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:34.955Z"
+    }
+  },
+  {
+    "id": "lv_e553e104-e482-4868-9a51-ba3044b84ae6",
+    "createdAt": "2026-09-11T04:16:34.948Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:34.651Z"
+    }
+  },
+  {
+    "id": "lv_460c1d76-7bb4-44f6-b4bd-c9eb0036f764",
+    "createdAt": "2026-09-11T04:16:34.644Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:34.365Z"
+    }
+  },
+  {
+    "id": "lv_5d75ae93-c7b3-4268-a88b-e462b10ff4b5",
+    "createdAt": "2026-09-11T04:16:34.358Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:33.103Z"
+    }
+  },
+  {
+    "id": "lv_e4c6e615-c4a3-417b-8e9d-d51f906610b7",
+    "createdAt": "2026-09-11T04:16:33.096Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:32.807Z"
+    }
+  },
+  {
+    "id": "lv_fa336c5f-bbd1-43d0-b3d4-5b1cd58a19ac",
+    "createdAt": "2026-09-11T04:16:32.799Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:32.521Z"
+    }
+  },
+  {
+    "id": "lv_46f944f0-2cf4-4084-bbf3-2d296b647ba8",
+    "createdAt": "2026-09-11T04:16:32.514Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:32.130Z"
+    }
+  },
+  {
+    "id": "lv_1c3d5f07-c961-479a-8d3b-e1ce7b450e1c",
+    "createdAt": "2026-09-11T04:16:32.123Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:30.798Z"
+    }
+  },
+  {
+    "id": "lv_f8596437-ca38-4ed6-93ef-d2d32e6b6bc5",
+    "createdAt": "2026-09-11T04:16:30.791Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:30.528Z"
+    }
+  },
+  {
+    "id": "lv_3f01b77b-d7cf-432e-9931-52af27307f70",
+    "createdAt": "2026-09-11T04:16:30.522Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:28.534Z"
+    }
+  },
+  {
+    "id": "lv_6faab34c-92ee-4d3b-acb9-1c6ae8f9b2db",
+    "createdAt": "2026-09-11T04:16:28.529Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:28.179Z"
+    }
+  },
+  {
+    "id": "lv_3691a6c8-f566-4d43-952f-c954028932c3",
+    "createdAt": "2026-09-11T04:16:28.171Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:27.610Z"
+    }
+  },
+  {
+    "id": "lv_022fe417-9542-4e48-868a-842f2a7e7797",
+    "createdAt": "2026-09-11T04:16:27.602Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:27.231Z"
+    }
+  },
+  {
+    "id": "lv_477d4696-4da3-4d4f-83cf-2272f7361a94",
+    "createdAt": "2026-09-11T04:16:27.222Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:26.891Z"
+    }
+  },
+  {
+    "id": "lv_fd303427-60af-4de5-9586-66dbaf671466",
+    "createdAt": "2026-09-11T04:16:26.884Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:26.591Z"
+    }
+  },
+  {
+    "id": "lv_9f52838e-b4f4-4f70-8537-be3b8fb6c6c6",
+    "createdAt": "2026-09-11T04:16:26.584Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:13.606Z"
+    }
+  },
+  {
+    "id": "lv_4df4abbe-4152-491d-9957-da6bfcb99319",
+    "createdAt": "2026-09-11T04:16:13.599Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:16:13.125Z"
+    }
+  },
+  {
+    "id": "lv_380c98ad-9ff3-4966-bb22-c10f852c316b",
+    "createdAt": "2026-09-11T04:16:13.117Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:55.882Z"
+    }
+  },
+  {
+    "id": "lv_abc72065-6ae2-45b6-b6e2-92e55daee24b",
+    "createdAt": "2026-09-11T04:15:55.873Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:48.187Z"
+    }
+  },
+  {
+    "id": "lv_261faced-b46a-4d96-ae92-97a20d25f53d",
+    "createdAt": "2026-09-11T04:15:48.181Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:46.261Z"
+    }
+  },
+  {
+    "id": "lv_59552ee1-e1c4-4aa9-a6c4-5a723903e62d",
+    "createdAt": "2026-09-11T04:15:46.252Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:44.309Z"
+    }
+  },
+  {
+    "id": "lv_faadd2a6-e244-44c4-8907-df050bec100c",
+    "createdAt": "2026-09-11T04:15:44.302Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:44.038Z"
+    }
+  },
+  {
+    "id": "lv_cdecc8a2-f7a2-4b94-af41-87e52c2b17d7",
+    "createdAt": "2026-09-11T04:15:44.032Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:43.637Z"
+    }
+  },
+  {
+    "id": "lv_ee130b65-8fdd-45ee-8d86-addb74dcbabe",
+    "createdAt": "2026-09-11T04:15:43.630Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:43.316Z"
+    }
+  },
+  {
+    "id": "lv_df64fb44-7626-49a9-9f8d-ceadcd83178d",
+    "createdAt": "2026-09-11T04:15:43.310Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:43.002Z"
+    }
+  },
+  {
+    "id": "lv_22c076e8-aec3-4143-b674-2c375eccef61",
+    "createdAt": "2026-09-11T04:15:42.993Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:42.446Z"
+    }
+  },
+  {
+    "id": "lv_40b6d30b-e6c1-4671-aa3a-cd67fbfbd0a3",
+    "createdAt": "2026-09-11T04:15:42.439Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "glm-4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:41.741Z"
+    }
+  },
+  {
+    "id": "lv_f72deac6-e253-4eec-b6fa-1aa105c89faa",
+    "createdAt": "2026-09-11T04:15:41.734Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "moonshot-v1-8k",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:40.157Z"
+    }
+  },
+  {
+    "id": "lv_690b4ee0-5a3c-42b1-8bac-2ac7800b2205",
+    "createdAt": "2026-09-11T04:15:40.150Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "qwen-plus",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:39.811Z"
+    }
+  },
+  {
+    "id": "lv_6379c4e0-43f9-4f02-99ce-f21fc88d77fd",
+    "createdAt": "2026-09-11T04:15:39.805Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "gpt-4o-mini",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:39.443Z"
+    }
+  },
+  {
+    "id": "lv_7991f290-4b4d-4a74-ae65-2748764b2373",
+    "createdAt": "2026-09-11T04:15:39.436Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:37.967Z"
+    }
+  },
+  {
+    "id": "lv_97aab7bd-b780-4e73-8e59-5dbb2f6986d5",
+    "createdAt": "2026-09-11T04:15:37.958Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:35.948Z"
+    }
+  },
+  {
+    "id": "lv_c3ecf6cd-c536-424f-8eac-f9a8efefa3a2",
+    "createdAt": "2026-09-11T04:15:35.942Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:35.237Z"
+    }
+  },
+  {
+    "id": "lv_bed757ef-4ad7-433b-a8c7-a32246d7fece",
+    "createdAt": "2026-09-11T04:15:35.229Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:34.960Z"
+    }
+  },
+  {
+    "id": "lv_8c2901ec-1b10-48e1-901a-1071cddb963a",
+    "createdAt": "2026-09-11T04:15:34.954Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:32.596Z"
+    }
+  },
+  {
+    "id": "lv_19060249-54b1-4bcc-a669-a4fb71f8e631",
+    "createdAt": "2026-09-11T04:15:32.589Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:32.262Z"
+    }
+  },
+  {
+    "id": "lv_5d394f07-a316-4443-bbe6-c79321b30af4",
+    "createdAt": "2026-09-11T04:15:32.256Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:26.073Z"
+    }
+  },
+  {
+    "id": "lv_978d084b-8371-464c-ae59-9cba169d7763",
+    "createdAt": "2026-09-11T04:15:26.067Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:23.978Z"
+    }
+  },
+  {
+    "id": "lv_32166cbf-950c-4f61-b0b3-6eb03a62b8c2",
+    "createdAt": "2026-09-11T04:15:23.970Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:22.607Z"
+    }
+  },
+  {
+    "id": "lv_d63eadc8-1671-4d14-a819-36baad15f1cd",
+    "createdAt": "2026-09-11T04:15:22.600Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:21.996Z"
+    }
+  },
+  {
+    "id": "lv_f08403df-7d2f-479e-8a69-66bf64314426",
+    "createdAt": "2026-09-11T04:15:21.989Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:20.619Z"
+    }
+  },
+  {
+    "id": "lv_c6588ec0-4d65-4563-a388-0af46ad4eb8e",
+    "createdAt": "2026-09-11T04:15:20.612Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:15:18.512Z"
+    }
+  },
+  {
+    "id": "lv_44b1efc6-2b09-4e11-b7a9-b144a09546e4",
+    "createdAt": "2026-09-11T04:15:18.498Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:12:42.245Z"
+    }
+  },
+  {
+    "id": "lv_74c72c02-86a5-40ad-8a73-bb5a0b738e30",
+    "createdAt": "2026-09-11T04:12:42.240Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:12:33.313Z"
+    }
+  },
+  {
+    "id": "lv_a9718953-b3be-4398-8df5-6d1a2ca607fb",
+    "createdAt": "2026-09-11T04:12:33.306Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:12:31.361Z"
+    }
+  },
+  {
+    "id": "lv_0a92ced3-d7bf-430b-bdf1-122ef3171d16",
+    "createdAt": "2026-09-11T04:12:31.355Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T04:12:28.902Z"
+    }
+  },
+  {
+    "id": "lv_986b6ca3-ea3f-4da8-94a6-c54445e8afd1",
+    "createdAt": "2026-09-11T04:12:28.890Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "demo",
+      "model": "demo-v1",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "lv_9764ac78-4a2b-4951-9156-6338ef506444",
+    "createdAt": "2026-09-09T06:20:32.941Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "coze",
+      "model": "coze-default",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-09T05:19:21.808Z"
+    }
+  },
+  {
+    "id": "lv_481b57a9-f7d1-4871-a8df-c7034e379f82",
+    "createdAt": "2026-09-09T05:19:21.803Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1400,
+      "updatedAt": "2026-09-09T03:32:04.923Z"
+    }
+  },
+  {
+    "id": "lv_4d1bdbc4-a614-4d64-bd7d-8c63840b9c53",
+    "createdAt": "2026-09-09T03:32:04.911Z",
+    "changeNote": "修改前自动快照",
+    "config": {
+      "provider": "openai-compatible",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2,
+      "maxTokens": 1200,
+      "updatedAt": "2026-09-07T01:13:58.578Z"
+    }
+  }
+]

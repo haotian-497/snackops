@@ -1,0 +1,29 @@
+[
+  {
+    "id": "lg_10021",
+    "orderId": "ord_20260906_10021",
+    "carrier": "中通",
+    "trackingNo": "ZT7788129001",
+    "status": "in_transit",
+    "lastEvent": "已离开杭州转运中心，预计今晚到达余杭。",
+    "updatedAt": "2026-09-06T11:40:00+08:00"
+  },
+  {
+    "id": "lg_8841",
+    "orderId": "ord_20260905_8841",
+    "carrier": "顺丰",
+    "trackingNo": "SF1933002218",
+    "status": "delivered",
+    "lastEvent": "本人签收",
+    "updatedAt": "2026-09-06T09:18:00+08:00"
+  },
+  {
+    "id": "lg_7720",
+    "orderId": "ord_20260904_7720",
+    "carrier": "圆通",
+    "trackingNo": "YT6600128834",
+    "status": "delivered",
+    "lastEvent": "已签收，放门卫",
+    "updatedAt": "2026-09-05T10:02:00+08:00"
+  }
+]

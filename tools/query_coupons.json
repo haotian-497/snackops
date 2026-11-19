@@ -1,0 +1,4 @@
+{
+  "id": "query_coupons",
+  "implementation": "src/lib/tools/query-coupons.ts"
+}

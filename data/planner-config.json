@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "filePath": "planner.md",
+  "enabledSkillIds": [
+    "need-extraction",
+    "recommendation-decision",
+    "recommendation-reason",
+    "response-generator",
+    "risk-check",
+    "clarification-question",
+    "product-substitution",
+    "after-sales-classification",
+    "complaint-triage",
+    "conversation-summary",
+    "human-handoff-decision",
+    "gift-scenario-advisor",
+    "allergy-risk-reminder",
+    "对话问候-skill"
+  ],
+  "enabledToolIds": [
+    "query_products",
+    "query_activities",
+    "query_coupons",
+    "calculate_price",
+    "query_orders",
+    "query_logistics"
+  ],
+  "mandatoryCapabilities": [],
+  "updatedAt": "2026-09-09T03:30:43.348Z"
+}

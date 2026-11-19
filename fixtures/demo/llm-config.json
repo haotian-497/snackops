@@ -1,0 +1,7 @@
+{
+  "provider": "demo",
+  "model": "demo-v1",
+  "temperature": 0.2,
+  "maxTokens": 1400,
+  "updatedAt": "2026-09-09T00:00:00.000Z"
+}

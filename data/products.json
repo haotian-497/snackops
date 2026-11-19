@@ -1,0 +1,134 @@
+[
+  {
+    "id": "prd_kelp_spicy",
+    "sku": "KL-SPICY-80G",
+    "name": "香辣海带结 80g",
+    "category": "即食零食",
+    "flavor": "香辣",
+    "priceFen": 1290,
+    "stock": 860,
+    "status": "on_sale",
+    "tags": ["香辣", "解馋", "海味"],
+    "ingredients": ["海带", "食用盐", "辣椒", "酱油", "白砂糖", "芝麻油"],
+    "allergens": ["芝麻", "大豆"],
+    "nutrition": {
+      "serving": "每袋 80g",
+      "energyKcal": 96,
+      "sugarG": 4.2,
+      "proteinG": 1.8,
+      "fatG": 2.1,
+      "sodiumMg": 780
+    },
+    "updatedAt": "2026-09-05T10:20:00+08:00"
+  },
+  {
+    "id": "prd_nuts_mixed",
+    "sku": "NT-MIX-25G",
+    "name": "每日坚果混合装 25g",
+    "category": "坚果炒货",
+    "flavor": "原味",
+    "priceFen": 990,
+    "stock": 0,
+    "status": "sold_out",
+    "tags": ["坚果", "代餐"],
+    "ingredients": ["核桃仁", "扁桃仁", "腰果", "蓝莓干", "南瓜籽"],
+    "allergens": ["坚果", "树坚果"],
+    "nutrition": {
+      "serving": "每袋 25g",
+      "energyKcal": 142,
+      "sugarG": 5.6,
+      "proteinG": 4.1,
+      "fatG": 11.2,
+      "sodiumMg": 18
+    },
+    "updatedAt": "2026-09-06T09:00:00+08:00"
+  },
+  {
+    "id": "prd_gummy_peach",
+    "sku": "GM-PEACH-50G",
+    "name": "水蜜桃果汁软糖 50g",
+    "category": "糖果",
+    "flavor": "水蜜桃",
+    "priceFen": 890,
+    "stock": 420,
+    "status": "on_sale",
+    "tags": ["果味", "儿童"],
+    "ingredients": ["白砂糖", "葡萄糖浆", "浓缩桃汁", "明胶", "柠檬酸"],
+    "allergens": [],
+    "nutrition": {
+      "serving": "每袋 50g",
+      "energyKcal": 168,
+      "sugarG": 32.0,
+      "proteinG": 2.4,
+      "fatG": 0.1,
+      "sodiumMg": 22
+    },
+    "updatedAt": "2026-09-04T16:40:00+08:00"
+  },
+  {
+    "id": "prd_yogurt_bar",
+    "sku": "YG-BERRY-40G",
+    "name": "酸奶果粒谷物棒 40g",
+    "category": "烘焙零食",
+    "flavor": "草莓酸奶",
+    "priceFen": 1190,
+    "stock": 240,
+    "status": "on_sale",
+    "tags": ["早餐", "便携"],
+    "ingredients": ["燕麦", "酸奶粉", "草莓粒", "蜂蜜", "牛奶"],
+    "allergens": ["乳", "麸质"],
+    "nutrition": {
+      "serving": "每根 40g",
+      "energyKcal": 158,
+      "sugarG": 9.4,
+      "proteinG": 3.6,
+      "fatG": 5.8,
+      "sodiumMg": 64
+    },
+    "updatedAt": "2026-09-05T18:10:00+08:00"
+  },
+  {
+    "id": "prd_seaweed_plain",
+    "sku": "SW-PLAIN-12G",
+    "name": "原味烤海苔 12g",
+    "category": "即食零食",
+    "flavor": "原味",
+    "priceFen": 690,
+    "stock": 640,
+    "status": "on_sale",
+    "tags": ["低刺激", "孕妇可询问", "替代"],
+    "ingredients": ["海苔", "食用盐", "玉米油"],
+    "allergens": [],
+    "nutrition": {
+      "serving": "每袋 12g",
+      "energyKcal": 48,
+      "sugarG": 0.2,
+      "proteinG": 2.1,
+      "fatG": 2.4,
+      "sodiumMg": 210
+    },
+    "updatedAt": "2026-09-06T08:30:00+08:00"
+  },
+  {
+    "id": "prd_gift_autumn",
+    "sku": "GF-AUTUMN-6PK",
+    "name": "中秋解馋礼盒 6 袋装",
+    "category": "礼盒",
+    "flavor": "混合",
+    "priceFen": 6900,
+    "stock": 88,
+    "status": "on_sale",
+    "tags": ["中秋", "礼赠", "组合"],
+    "ingredients": ["海带结", "果汁软糖", "谷物棒", "烤海苔"],
+    "allergens": ["芝麻", "大豆", "乳", "麸质"],
+    "nutrition": {
+      "serving": "整盒约 330g",
+      "energyKcal": 780,
+      "sugarG": 62.0,
+      "proteinG": 14.0,
+      "fatG": 18.0,
+      "sodiumMg": 1680
+    },
+    "updatedAt": "2026-09-01T09:00:00+08:00"
+  }
+]

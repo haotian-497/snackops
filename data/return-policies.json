@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rp_ready_to_eat",
+    "category": "即食零食",
+    "windowHours": 24,
+    "allowUnopened": true,
+    "allowOpened": false,
+    "damageRule": "包装破损、漏液或异物，48 小时内拍照批次码可退；运输破损由仓库补发或退款。",
+    "missingItemRule": "少件按实付单价补发或退差额，不额外补偿优惠券。",
+    "exchangeRule": "未开封且不影响二次销售可换同价位商品，需在签收 24 小时内申请。",
+    "refundRule": "质量问题全额退；口味不喜欢仅未开封可退，不退运费。",
+    "note": "开封后仅质量问题受理，禁止承诺“一律包退”。"
+  },
+  {
+    "id": "rp_nuts",
+    "category": "坚果炒货",
+    "windowHours": 48,
+    "allowUnopened": true,
+    "allowOpened": false,
+    "damageRule": "真空袋漏气、明显哈喇味需上传开封处与批次码，质检通过后退款。",
+    "missingItemRule": "混合装缺一种坚果按该成分占比退差额。",
+    "exchangeRule": "过敏原披露完整的情况下，因自身过敏一般不换货，可推荐替代 SKU。",
+    "refundRule": "变质全额退；签收超 48 小时无质量证据不退。",
+    "note": "未拿到质检结论前不得承诺补偿券。"
+  },
+  {
+    "id": "rp_candy",
+    "category": "糖果",
+    "windowHours": 24,
+    "allowUnopened": true,
+    "allowOpened": false,
+    "damageRule": "夏季融化先判定物流温控；仓库责任可退或补发。",
+    "missingItemRule": "箱规少袋按袋单价退。",
+    "exchangeRule": "未开封可换其他口味软糖。",
+    "refundRule": "质量问题全额退；已开封因口味不退。",
+    "note": "儿童高糖提示必须出现在推荐话术中。"
+  },
+  {
+    "id": "rp_bakery",
+    "category": "烘焙零食",
+    "windowHours": 24,
+    "allowUnopened": true,
+    "allowOpened": false,
+    "damageRule": "压碎严重可退；轻微变形不构成破损。",
+    "missingItemRule": "少根按单价退。",
+    "exchangeRule": "乳过敏用户可换成无乳商品，需核实配料。",
+    "refundRule": "过期或发霉全额退并升级质检。",
+    "note": "含乳、麸质，孕妇或敏感受众需先提醒。"
+  },
+  {
+    "id": "rp_gift",
+    "category": "礼盒",
+    "windowHours": 24,
+    "allowUnopened": true,
+    "allowOpened": false,
+    "damageRule": "外盒压损不影响食用一般不退；内袋破损按单袋政策处理。",
+    "missingItemRule": "少袋按该袋标价退差额或补发同款。",
+    "exchangeRule": "未拆封可换同价位礼盒，需在签收 24 小时内申请。",
+    "refundRule": "质量问题全额退；因口味或收礼人不喜欢仅未拆封可退，不退运费。",
+    "note": "礼盒含多种过敏原，推荐前必须提醒。"
+  }
+]

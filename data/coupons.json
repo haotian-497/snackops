@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cpn_new_8",
+    "code": "XINREN8",
+    "name": "新人满 29 减 8",
+    "kind": "amount",
+    "discountFen": 800,
+    "minSpendFen": 2900,
+    "remaining": 1840,
+    "status": "active",
+    "expiresAt": "2026-09-30T23:59:59+08:00",
+    "applicableProductIds": ["*"],
+    "newCustomerOnly": true,
+    "stackWithActivity": true
+  },
+  {
+    "id": "cpn_vip_12",
+    "code": "GOLD12",
+    "name": "金卡会员减 12",
+    "kind": "amount",
+    "discountFen": 1200,
+    "minSpendFen": 5900,
+    "remaining": 220,
+    "status": "paused",
+    "expiresAt": "2026-10-15T23:59:59+08:00",
+    "applicableProductIds": ["prd_kelp_spicy", "prd_nuts_mixed", "prd_yogurt_bar"],
+    "newCustomerOnly": false,
+    "stackWithActivity": false
+  },
+  {
+    "id": "cpn_gummy_10off",
+    "code": "TAO10",
+    "name": "软糖九折",
+    "kind": "percent",
+    "percentOff": 10,
+    "minSpendFen": 890,
+    "remaining": 90,
+    "status": "active",
+    "expiresAt": "2026-09-20T23:59:59+08:00",
+    "applicableProductIds": ["prd_gummy_peach"],
+    "newCustomerOnly": false,
+    "stackWithActivity": true
+  }
+]

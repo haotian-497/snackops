@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ab_aftersale_tone",
+    "name": "售后话术约束 A/B",
+    "controlSkillId": "after-sales-classification",
+    "treatmentSkillId": "complaint-triage",
+    "trafficPct": 20,
+    "status": "running"
+  },
+  {
+    "id": "ab_catalog_draft",
+    "name": "替代推荐灰度",
+    "controlSkillId": "recommendation-decision",
+    "treatmentSkillId": "product-substitution",
+    "trafficPct": 5,
+    "status": "draft"
+  }
+]

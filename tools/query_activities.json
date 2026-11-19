@@ -1,0 +1,4 @@
+{
+  "id": "query_activities",
+  "implementation": "src/lib/tools/query-activities.ts"
+}

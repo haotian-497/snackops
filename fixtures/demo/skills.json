@@ -1,0 +1,260 @@
+[
+  {
+    "id": "need-extraction",
+    "name": "需求抽取",
+    "description": "从用户话里抽出意图、约束、商品和订单线索。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0.1,
+    "maxTokens": 800,
+    "requiredTools": [
+      "query_products",
+      "query_orders"
+    ],
+    "version": "1.0.0",
+    "filePath": "need-extraction.md",
+    "status": "published",
+    "toolIds": [
+      "query_products",
+      "query_orders"
+    ]
+  },
+  {
+    "id": "recommendation-decision",
+    "name": "推荐决策",
+    "description": "在库存、过敏和活动约束下选择可推荐 SKU。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0.2,
+    "maxTokens": 900,
+    "requiredTools": [
+      "query_products",
+      "query_activities"
+    ],
+    "version": "1.0.0",
+    "filePath": "recommendation-decision.md",
+    "status": "published",
+    "toolIds": [
+      "query_products",
+      "query_activities"
+    ]
+  },
+  {
+    "id": "recommendation-reason",
+    "name": "推荐理由",
+    "description": "用可核验的卖点解释为什么推荐，避免夸大。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0.3,
+    "maxTokens": 700,
+    "requiredTools": [
+      "query_products"
+    ],
+    "version": "1.0.0",
+    "filePath": "recommendation-reason.md",
+    "status": "published",
+    "toolIds": [
+      "query_products"
+    ]
+  },
+  {
+    "id": "response-generator",
+    "name": "回复生成",
+    "description": "把 Planner 结论组织成可发送的客服回复。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0.4,
+    "maxTokens": 1200,
+    "requiredTools": [
+      "query_coupons",
+      "calculate_price"
+    ],
+    "version": "1.0.0",
+    "filePath": "response-generator.md",
+    "status": "published",
+    "toolIds": [
+      "query_coupons",
+      "calculate_price"
+    ]
+  },
+  {
+    "id": "risk-check",
+    "name": "风险审核",
+    "description": "可审计规则：价格、极限词、售后承诺、人群安全与诈骗。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0,
+    "maxTokens": 1000,
+    "requiredTools": [
+      "query_products",
+      "query_coupons",
+      "calculate_price"
+    ],
+    "version": "1.1.0",
+    "filePath": "risk-check.md",
+    "status": "published",
+    "toolIds": [
+      "query_products",
+      "query_coupons",
+      "calculate_price"
+    ]
+  },
+  {
+    "id": "clarification-question",
+    "name": "澄清提问",
+    "description": "信息不足时只问一个关键问题。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0.2,
+    "maxTokens": 400,
+    "requiredTools": [],
+    "version": "1.0.0",
+    "filePath": "clarification-question.md",
+    "status": "published",
+    "toolIds": []
+  },
+  {
+    "id": "product-substitution",
+    "name": "商品替代",
+    "description": "售罄或过敏时给出同价位替代。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0.2,
+    "maxTokens": 800,
+    "requiredTools": [
+      "query_products"
+    ],
+    "version": "1.0.0",
+    "filePath": "product-substitution.md",
+    "status": "published",
+    "toolIds": [
+      "query_products"
+    ]
+  },
+  {
+    "id": "after-sales-classification",
+    "name": "售后分类",
+    "description": "判定破损、缺件、退换货和退款路径。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0.1,
+    "maxTokens": 900,
+    "requiredTools": [
+      "query_orders",
+      "query_logistics"
+    ],
+    "version": "1.0.0",
+    "filePath": "after-sales-classification.md",
+    "status": "published",
+    "toolIds": [
+      "query_orders",
+      "query_logistics"
+    ]
+  },
+  {
+    "id": "complaint-triage",
+    "name": "投诉分诊",
+    "description": "识别投诉升级信号并避免推诿。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0.1,
+    "maxTokens": 700,
+    "requiredTools": [
+      "query_orders"
+    ],
+    "version": "1.0.0",
+    "filePath": "complaint-triage.md",
+    "status": "published",
+    "toolIds": [
+      "query_orders"
+    ]
+  },
+  {
+    "id": "conversation-summary",
+    "name": "会话摘要",
+    "description": "给接管坐席生成事实摘要。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0.2,
+    "maxTokens": 600,
+    "requiredTools": [
+      "query_orders"
+    ],
+    "version": "1.0.0",
+    "filePath": "conversation-summary.md",
+    "status": "published",
+    "toolIds": [
+      "query_orders"
+    ]
+  },
+  {
+    "id": "human-handoff-decision",
+    "name": "转人工决策",
+    "description": "按转人工规则决定是否接管。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0,
+    "maxTokens": 500,
+    "requiredTools": [
+      "query_orders"
+    ],
+    "version": "1.0.0",
+    "filePath": "human-handoff-decision.md",
+    "status": "published",
+    "toolIds": [
+      "query_orders"
+    ]
+  },
+  {
+    "id": "gift-scenario-advisor",
+    "name": "礼赠顾问",
+    "description": "按节日和对象给礼盒建议。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0.3,
+    "maxTokens": 800,
+    "requiredTools": [
+      "query_products",
+      "query_activities"
+    ],
+    "version": "1.0.0",
+    "filePath": "gift-scenario-advisor.md",
+    "status": "published",
+    "toolIds": [
+      "query_products",
+      "query_activities"
+    ]
+  },
+  {
+    "id": "allergy-risk-reminder",
+    "name": "过敏风险提醒",
+    "description": "核对配料、过敏原和特殊人群提示。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0,
+    "maxTokens": 700,
+    "requiredTools": [
+      "query_products"
+    ],
+    "version": "1.0.0",
+    "filePath": "allergy-risk-reminder.md",
+    "status": "published",
+    "toolIds": [
+      "query_products"
+    ]
+  },
+  {
+    "id": "对话问候-skill",
+    "name": "对话问候",
+    "description": "开场问候并快速确认能帮什么。",
+    "enabled": true,
+    "model": "deepseek-v4-flash",
+    "temperature": 0.4,
+    "maxTokens": 300,
+    "requiredTools": [],
+    "version": "1.0.0",
+    "filePath": "对话问候-skill.md",
+    "status": "published",
+    "toolIds": []
+  }
+]

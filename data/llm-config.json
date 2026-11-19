@@ -1,0 +1,7 @@
+{
+  "provider": "openai-compatible",
+  "model": "deepseek-v4-flash",
+  "temperature": 0.2,
+  "maxTokens": 1400,
+  "updatedAt": "2026-10-18T00:28:14.080Z"
+}

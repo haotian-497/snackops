@@ -1,0 +1,32 @@
+[
+  {
+    "id": "hf_tool_fail",
+    "when": "同一会话连续两次 Tool 失败",
+    "action": "human_takeover",
+    "note": "告知用户正在转接，不编造查询结果。"
+  },
+  {
+    "id": "hf_complaint",
+    "when": "用户明确投诉、要求主管或提到曝光",
+    "action": "human_takeover",
+    "note": "先致歉并复述诉求，不推诿到物流或用户自身。"
+  },
+  {
+    "id": "hf_scam",
+    "when": "出现中奖、转账、验证码、外链兑奖",
+    "action": "human_takeover",
+    "note": "先完成风险提醒，再转人工核验，不承诺兑奖。"
+  },
+  {
+    "id": "hf_aftersale_evidence",
+    "when": "售后需要判责但证据不足",
+    "action": "human_takeover",
+    "note": "列取出证清单后转人工，不提前承诺退款金额。"
+  },
+  {
+    "id": "hf_simple_faq",
+    "when": "库存、物流轨迹、券规则可被 Tool 证实",
+    "action": "stay_bot",
+    "note": "保持机器人处理，回复需通过 risk-check。"
+  }
+]
